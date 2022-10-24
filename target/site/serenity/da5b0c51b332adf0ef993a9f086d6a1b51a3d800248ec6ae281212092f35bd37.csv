@@ -1,0 +1,2 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"AS QA of the time zone mobile app","Test that the capture of coordinates works when the access to the cell location has been granted","FAILURE","2022-09-03T00:08:01.0605248-05:00[America/Bogota]","0.0","23.19"

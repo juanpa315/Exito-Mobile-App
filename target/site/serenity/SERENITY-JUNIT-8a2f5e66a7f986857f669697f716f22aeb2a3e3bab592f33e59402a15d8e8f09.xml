@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="0" name="Validate login functionality in the eriBank app" skipped="0" tests="1" time="21.71" timestamp="2022-09-03 11:22:05"><testcase name="As a product Owner, Juan wants to validate that a user cannot login with incorrect access data"/></testsuite>

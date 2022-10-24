@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Validate login functionality in the eriBank app","As a product Owner, Juan wants to validate that a user cannot login with incorrect access data","SUCCESS","2022-09-03T23:22:05.5228573-05:00[America/Bogota]","0.0","21.71"
+"Validate login functionality in the eriBank app","As a User Juan wants to login successful in the eriBank app","SUCCESS","2022-09-05T12:11:23.6074107-05:00[America/Bogota]","0.0","22.89"
+"validate send payment functionality on the eriBank application","As a user Juan wants to make a payment successfully on the exito application","SUCCESS","2022-09-20T16:09:25.0493061-05:00[America/Bogota]","0.0","44.46"
+"Validate that the exito application allows to the users to make a purchases successfully","as a user Juan wants to make a purchase of a tv on the exito app","SUCCESS","2022-09-13T12:58:03.5381184-05:00[America/Bogota]","0.0","40.85"
+"Validate select city functionality on the Exito application","As a user Juan wants to choose the delivery city for your orders","SUCCESS","2022-09-13T12:15:44.5095613-05:00[America/Bogota]","0.0","45.85"

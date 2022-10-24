@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Validate login functionality in the eriBank app","As a product Owner, Juan wants to validate that a user cannot login with incorrect access data","SUCCESS","2022-09-03T23:22:05.5228573-05:00[America/Bogota]","0.0","21.71"
+"Validate login functionality in the eriBank app","As a User Juan wants to login successful in the eriBank app","SUCCESS","2022-09-05T12:11:23.6074107-05:00[America/Bogota]","0.0","22.89"

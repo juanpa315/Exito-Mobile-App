@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="1" failures="0" name="Validate login functionality in the eriBank app" skipped="0" tests="1" time="0.34" timestamp="2022-09-06 11:11:27"><testcase name="As a User Juan wants to login successful in the exito app"><error type="java.lang.NullPointerException"/><system-err>null&#13;
+com.google.common.base.Preconditions.checkNotNull(Preconditions.java:889)&#13;
+co.com.sofka.certification.stepDefinitions.LoginStepDefinitions.actor(LoginStepDefinitions.java:26)&#13;
+</system-err></testcase></testsuite>

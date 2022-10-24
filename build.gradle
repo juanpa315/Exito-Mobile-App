@@ -1,0 +1,42 @@
+buildscript{
+    repositories {
+        mavenCentral()
+    }
+    dependencies {
+        classpath "net.serenity-bdd:serenity-gradle-plugin:3.2.3"
+    }
+}
+
+plugins {
+    id 'java'
+    id 'idea'
+    id "net.serenity-bdd.serenity-gradle-plugin" version "3.2.3"
+}
+
+group 'co.com.sofka.certification'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    //Parte del screenplay
+    implementation 'net.serenity-bdd:serenity-core:3.2.5'
+    //Ayuda con ejecuciones
+    implementation 'net.serenity-bdd:serenity-junit:3.2.5'
+    //Se complementa con la primera para traer todas las funciones de screenplay
+    implementation 'net.serenity-bdd:serenity-screenplay:3.2.5'
+    //Traduccion entre features y metodos que se implementan
+    implementation 'net.serenity-bdd:serenity-cucumber:3.2.5'
+
+    //Compilacion
+    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.8.2'
+    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.8.2'
+    //Ayuda con logs
+    testImplementation 'org.slf4j:slf4j-simple:1.7.36'
+
+    // https://mvnrepository.com/artifact/net.serenity-bdd/serenity-ensure
+    implementation 'net.serenity-bdd:serenity-ensure:3.2.5'
+
+}
