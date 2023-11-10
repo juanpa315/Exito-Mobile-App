@@ -1,4 +1,4 @@
-Feature: validate send payment functionality on the eriBank application
+Feature: validate send payment functionality on the Exito application
 
   @PaymentSuccessful
   Scenario: As a user Juan wants to make a payment successfully on the exito application
