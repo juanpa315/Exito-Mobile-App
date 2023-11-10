@@ -4,5 +4,5 @@ Automatización a nivel de frontend sobre la aplicación movil del exito en Andr
 
 Esta automatización se trabaja con las siguientes tecnologias:
 
-**Serenity BDD, screenplay, java, gradle, appium y cucumber
-**
+Serenity BDD, screenplay, java, gradle, appium y cucumber
+
